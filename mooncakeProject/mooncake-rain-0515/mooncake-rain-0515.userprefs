@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Drag.cs">
+    <Files>
+      <File FileName="Assets/Script/Drag.cs" Line="29" Column="30" />
+      <File FileName="Assets/Exit.cs" Line="5" Column="1" />
+      <File FileName="Assets/Script/SceneController3.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/SceneController0.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/SceneController1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/SceneController4.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Rain/Desktop/mooncake-rain-0515/Assets/Script/SceneController0.cs" line="44" column="28" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

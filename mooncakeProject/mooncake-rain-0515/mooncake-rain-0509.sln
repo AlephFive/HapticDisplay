@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mooncake-rain-0509", "Assembly-CSharp.csproj", "{C95817E8-9B95-9D38-C929-EFE9D1D4BCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95817E8-9B95-9D38-C929-EFE9D1D4BCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95817E8-9B95-9D38-C929-EFE9D1D4BCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95817E8-9B95-9D38-C929-EFE9D1D4BCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95817E8-9B95-9D38-C929-EFE9D1D4BCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

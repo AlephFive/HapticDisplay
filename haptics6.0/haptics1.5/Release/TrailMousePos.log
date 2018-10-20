@@ -1,0 +1,34 @@
+﻿生成启动时间为 2014/10/27 18:27:29。
+     1>项目“C:\haptic\haptics6.0\haptics1.5\TrailMousePos.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Release\TrailMousePos.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Release\TrailMousePos.pch" /Fo".\Release\\" /Fd".\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Release\TrailMousePos.pch" /Fo".\Release\\" /Fd".\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mscomm1.cpp TrailMousePos.cpp TrailMousePosDlg.cpp
+         mscomm1.cpp
+         TrailMousePos.cpp
+     1>TrailMousePos.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(5344) : 参见“CWinApp::Enable3dControls”的声明
+         TrailMousePosDlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0804" /nologo /fo".\Release\TrailMousePos.res" TrailMousePos.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release\TrailMousePos.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:".\Release\TrailMousePos.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\haptic\haptics6.0\haptics1.5\Release\TrailMousePos.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\TrailMousePos.lib" /MACHINE:X86 .\Release\TrailMousePos.res
+         .\Release\mscomm1.obj
+         .\Release\StdAfx.obj
+         .\Release\TrailMousePos.obj
+         .\Release\TrailMousePosDlg.obj
+         TrailMousePos.vcxproj -> C:\haptic\haptics6.0\haptics1.5\.\Release\TrailMousePos.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\Release\TrailMousePos.exe;#1" /manifest .\Release\TrailMousePos.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“.\Release\TrailMousePos.unsuccessfulbuild”。
+         正在对“.\Release\TrailMousePos.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\haptic\haptics6.0\haptics1.5\TrailMousePos.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.19
